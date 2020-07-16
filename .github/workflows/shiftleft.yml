@@ -1,6 +1,7 @@
 ---
 # This workflow integrates ShiftLeft NG SAST with GitHub
 # Visit https://docs.shiftleft.io for help
+# a second try
 name: ShiftLeft
 
 on:
